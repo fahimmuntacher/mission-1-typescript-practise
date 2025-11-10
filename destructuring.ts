@@ -1,0 +1,6 @@
+// Object destructuring
+
+
+
+
+// Array destructuring
